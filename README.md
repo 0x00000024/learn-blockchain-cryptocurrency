@@ -1,2 +1,2 @@
 # learn-blockchain-cryptocurrency
-Learn the key elements of blockchain and Bitcoin.
+Build a blockchain and cryptocurrency. Discover the engineering ideas behind technologies like Bitcoin and Ethereum!
